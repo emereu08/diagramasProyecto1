@@ -1,0 +1,88 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
+  <diagram name="Página-1" id="5yZudgAp1VaWM4LjJgbp">
+    <mxGraphModel dx="2074" dy="1238" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eYUHVzfx-bP7fP3mW7RO-1" value="accountms" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="40" width="1200" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="eYUHVzfx-bP7fP3mW7RO-2" value="Business" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="250" width="560" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="eYUHVzfx-bP7fP3mW7RO-3" value="Model" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="90" width="560" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="eYUHVzfx-bP7fP3mW7RO-4" value="Repository" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="400" width="560" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="eYUHVzfx-bP7fP3mW7RO-5" value="BD" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="350" y="590" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eYUHVzfx-bP7fP3mW7RO-6" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Servicios&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;CuentaServicio&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;CuentaServicioImpl&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="130" y="280" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="eYUHVzfx-bP7fP3mW7RO-7" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="eYUHVzfx-bP7fP3mW7RO-6">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eYUHVzfx-bP7fP3mW7RO-8" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Excepcion&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;ErrorInternoExcepcion&lt;br&gt;RecursoNoEncontradoExcepcion&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="304" y="280" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="eYUHVzfx-bP7fP3mW7RO-9" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="eYUHVzfx-bP7fP3mW7RO-8">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eYUHVzfx-bP7fP3mW7RO-10" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;mapper&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;CuentaMapper&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="480" y="280" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="eYUHVzfx-bP7fP3mW7RO-11" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="eYUHVzfx-bP7fP3mW7RO-10">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eYUHVzfx-bP7fP3mW7RO-12" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="eYUHVzfx-bP7fP3mW7RO-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="640" as="sourcePoint" />
+            <mxPoint x="380" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eYUHVzfx-bP7fP3mW7RO-13" value="CuentaRepository" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="304" y="430" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eYUHVzfx-bP7fP3mW7RO-14" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Entity&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Cuenta&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="300" y="110" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="eYUHVzfx-bP7fP3mW7RO-15" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="eYUHVzfx-bP7fP3mW7RO-14">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eYUHVzfx-bP7fP3mW7RO-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eYUHVzfx-bP7fP3mW7RO-4" target="eYUHVzfx-bP7fP3mW7RO-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eYUHVzfx-bP7fP3mW7RO-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eYUHVzfx-bP7fP3mW7RO-2" target="eYUHVzfx-bP7fP3mW7RO-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eYUHVzfx-bP7fP3mW7RO-18" value="Delegate" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="100" width="470" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="eYUHVzfx-bP7fP3mW7RO-19" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;CuentaApiDelegate&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ listarCuenta(): ResponseEntity&amp;lt;List&amp;lt;CuentaResponse&amp;gt;&amp;gt;&lt;br&gt;+ consultarCuenta(): ResponseEntity&amp;lt;CuentaResponse&amp;gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ agregarCuenta():&lt;span style=&quot;background-color: initial;&quot;&gt;ResponseEntity&amp;lt;&lt;/span&gt;CuentaResponse&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ depositar():&lt;span style=&quot;background-color: initial;&quot;&gt;ResponseEntity&amp;lt;&lt;/span&gt;CuentaResponse&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ retirar():&lt;span style=&quot;background-color: initial;&quot;&gt;ResponseEntity&amp;lt;&lt;/span&gt;CuentaResponse&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ eliminarCuentaPorId()&lt;span style=&quot;background-color: initial;&quot;&gt;ResponseEntity&amp;lt;void&amp;gt;&lt;/span&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="780" y="180" width="410" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="eYUHVzfx-bP7fP3mW7RO-20" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="eYUHVzfx-bP7fP3mW7RO-19">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eYUHVzfx-bP7fP3mW7RO-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eYUHVzfx-bP7fP3mW7RO-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="652" y="315" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
